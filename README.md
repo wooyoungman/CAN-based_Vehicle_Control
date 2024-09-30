@@ -120,31 +120,31 @@
 
 #### 동작부 ESP32
   
-<img src="https://github.com/user-attachments/assets/4d10cbd1-f72f-41c6-9b82-ac60e12db14d">
+<img width="50%" height="50%" src="https://github.com/user-attachments/assets/4d10cbd1-f72f-41c6-9b82-ac60e12db14d">
   
   #### 메인부 ESP32
-  <img src="https://github.com/user-attachments/assets/c1196189-bf96-4acc-a516-51a1f08255cf">
+  <img width="50%" height="50%" src="https://github.com/user-attachments/assets/c1196189-bf96-4acc-a516-51a1f08255cf">
   
   #### 센서부 ESP32
   
-  <img src="https://github.com/user-attachments/assets/8e7639d0-415d-4703-a1a3-73ac81e41284">
+  <img width="50%" height="50%" src="https://github.com/user-attachments/assets/8e7639d0-415d-4703-a1a3-73ac81e41284">
 
   #### Renesas FPB-RA6E1
-  <img src="https://github.com/user-attachments/assets/22c1059c-0aae-4b26-aec8-ecfc80897940">
+  <img width="50%" height="50%" src="https://github.com/user-attachments/assets/22c1059c-0aae-4b26-aec8-ecfc80897940">
 </p>
 
 ---
 
 ### 차량 프레임
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ff890672-eea5-467c-82df-370cc64380b7">
+<img width="50%" height="50%" src="https://github.com/user-attachments/assets/ff890672-eea5-467c-82df-370cc64380b7">
 </p>
 
 ---
 
 ### 통신 아키텍처 및 프로토콜 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/bdbf03ee-1c51-4705-90f8-e5901835ab6c">
+<img width="70%" src="https://github.com/user-attachments/assets/bdbf03ee-1c51-4705-90f8-e5901835ab6c">
 </p>
 
 ---
@@ -179,7 +179,7 @@
 
 ### 센서 값 Read & DB 저장
 <p align="center">
-<img src="https://github.com/user-attachments/assets/02629660-354e-4c77-97f0-591d28a8cb7f"">
+<img width="70%" src="https://github.com/user-attachments/assets/02629660-354e-4c77-97f0-591d28a8cb7f"">
 </p>
 
 ---
